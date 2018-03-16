@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Drink all the coke you want, stay healthy"
   spec.description   = "Drink 10 cans and see how you feel"
-  spec.homepage      = "https://github.com/MIchaelOris/coke_zero.git"
+  spec.homepage      = "https://github.com/MIchaelOris/coke_zero"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
